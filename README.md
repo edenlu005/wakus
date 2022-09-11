@@ -2,4 +2,5 @@
 ## First and Leading Nicotine Pouches Brand in CN
 
 Try GitHub with WAKUS
-</img src= "wakus1.png" width='600'/>
+</>
+<img src= "wakus1.png" width='600'/>
